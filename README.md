@@ -27,10 +27,11 @@ JavaScript_TIL/
  ├── 03.Basic_syntax02.md
  └── 04.Controlling_event.md
 
-AlgorithmTIL.md  
-DjangoTIL.md  
+Algorithm_TIL.md 
+Django_TIL.md  
 GIT_TIL.md  
-WebTIL.md  
+Web_TIL.md
+Vue_TIL.md 
 README.md  
 ```
 
