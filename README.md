@@ -1,14 +1,14 @@
 # 📚 Today I Learned (TIL)
 
 이 저장소는 SSAFY에서 매일 학습한 내용을 정리한 **TIL(Today I Learned)** 기록 모음입니다.
-AI, JavaScript, Django, Git, 웹 개발 등 다양한 분야에서 배운 개념을
-주제별로 정리하며 기록하고 있습니다.
+AI, JavaScript, Django, Git, 웹 개발 등 다양한 분야에서 배운 개념을 주제별로 정리하며 기록하고 있습니다.
 
 ---
 
 ## 🗂️ 폴더 구조
 
 ```
+
 AI_TIL/
  ├── 1-1. AI & 기계학습 기초.md
  ├── 1-2. AI & 기계학습 방법.md
@@ -25,14 +25,22 @@ JavaScript_TIL/
  ├── 01.JS_DOM.md
  ├── 02.Basic_syntax01.md
  ├── 03.Basic_syntax02.md
- └── 04.Controlling_event.md
+ ├── 04.Controlling_event.md
+ ├── 05.AJAX.md
+ └── 06.JS : 비동기 JS with Django.md
 
-Algorithm_TIL.md 
-Django_TIL.md  
-GIT_TIL.md  
-Web_TIL.md
-Vue_TIL.md 
-README.md  
+VueScript_TIL/ 
+ ├── 01.Introduction of vue.md
+ ├── 02.Basic Syntax 01.md
+ ├── 03.BasicSyntax02.md
+ ├── 04.SingleFileComponents.md
+ ├── 05.ComponentStateFlow.md
+ ├── 06.Router.md
+ ├── 07.StateManagement.md
+ ├── 08.VueWithDRF_01_CORS.md
+ ├── 09.VueWithDRF_02_AUTH.md
+ └── 10.VueWithDRF_03_UserCustom.md
+
 ```
 
 ---
@@ -41,17 +49,6 @@ README.md
 
 * 배운 내용을 **체계적으로 기록**하고 스스로 복습하기 위함
 * 필요한 개념을 **빠르게 다시 찾기 위한 정리 시스템 구축**
-
----
-
-## 🧠 포함된 주제
-
-- **AI 기초, NLP, 딥러닝, LangChain, Agent, Foundation Model**
-- **JavaScript 기본 문법 및 DOM 조작**
-- **Django & REST API**
-- **웹 개발 전반**
-- **알고리즘 & 자료구조**
-- **Git/GitHub 워크플로우**
 
 ---
 
